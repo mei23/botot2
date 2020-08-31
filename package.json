@@ -12,7 +12,7 @@
 	"author": "",
 	"license": "MIT",
 	"devDependencies": {
-		"@types/node": "^14.0.27",
+		"@types/node": "^14.6.2",
 		"@types/node-fetch": "^2.5.4",
 		"@types/ws": "^7.2.6",
 		"@types/xml2js": "^0.4.5",
