@@ -31,7 +31,7 @@
 		"mathjax-node": "^2.1.1",
 		"moment": "^2.23.0",
 		"node-cabocha": "0.0.4",
-		"node-fetch": "^2.6.0",
+		"node-fetch": "^2.6.1",
 		"reconnecting-websocket": "^4.2.0",
 		"request-promise-native": "^1.0.8",
 		"svg2png": "^4.1.1",
