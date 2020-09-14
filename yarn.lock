@@ -1330,10 +1330,10 @@ nice-try@^1.0.4:
   resolved "https://registry.yarnpkg.com/nice-try/-/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
   integrity sha512-1nh45deeb5olNY7eX82BkPO7SSxR5SSYJiPTrTdFUVYwAl8CKMA5N9PjTYkHiRjisVcxcQ1HXdLhx2qxxJzLNQ==
 
-node-cabocha@0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/node-cabocha/-/node-cabocha-0.0.4.tgz#f3ddfae64f6ada960232d12fc3904f29e2966a86"
-  integrity sha512-SUr4XuEuS8gzdeqpmNFBoo4kvKZSywlo9dDDNQJfno832l2sCQZSAqtOfKEHbTED/VC+FM4HTlmALOedo2xBug==
+node-cabocha@0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/node-cabocha/-/node-cabocha-0.0.5.tgz#a22086847f7fc1014dc250bb55c5a0b010b155dd"
+  integrity sha512-OFZdzES//Z+7Wkr0biISqKnKEsEf0cNeNsj31JL9NgFVFLCi6g8g9iRi2xOJOUx8L8mgzDN9CyCua6dBhSMczw==
   dependencies:
     "@types/node" "^7.0.8"
 
