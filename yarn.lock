@@ -1234,13 +1234,13 @@ lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.14, lodash@^4.17.19:
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
   integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
 
-markov-ja@^1.0.8:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/markov-ja/-/markov-ja-1.0.8.tgz#a5a623a58979eb213a07fe04f31e7d999e16596f"
-  integrity sha512-wEcjWw8wzAWumfWf89rfWrTZ+ooIvtXvzC4qys3GqFHioAX8ueizqgEWODrLjc0VBU9ThnKwuArygcoz0ud0Kw==
+markov-ja@^1.0.11:
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/markov-ja/-/markov-ja-1.0.11.tgz#a11226a53a51105d327c3684a75747c9ab69d819"
+  integrity sha512-LWzRGmZjw3viQHcx7zn4djpEpoK3v4ZzY87WQ3YmiEURtvvWjtQj3rjC3csaming09uZPhgDa+WmBSIS2Xp37Q==
   dependencies:
     child_process "^1.0.2"
-    mecab-node "^1.0.1"
+    mecab-node "^1.0.3"
     shell-quote "^1.6.1"
 
 mathjax-node@^2.1.1:
@@ -1257,12 +1257,10 @@ mathjax@^2.7.2:
   resolved "https://registry.yarnpkg.com/mathjax/-/mathjax-2.7.8.tgz#c883f483c4f4abe525b7a3dea16abecf663f2a6a"
   integrity sha512-n4xZJ+cw7o01YOSVhxxjyOmibqBPCi+XTDof4siq78QWMx7Fxjzgb/mxMUEElMzTDodMV7ENIMsjREOSldOQPw==
 
-mecab-node@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/mecab-node/-/mecab-node-1.0.1.tgz#0a51720c24f04fa70861c0bd292752a68a16c082"
-  integrity sha512-uldOmawwsQYZOECLEvJttqsNgmQtHUmqwvCqtJM14/tEn/u/i85OEUD/rZNbou+Um4LHE6H1mbLCEceWLLMXVg==
-  dependencies:
-    shell-quote "^1.6.1"
+mecab-node@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/mecab-node/-/mecab-node-1.0.3.tgz#8248a12e41ac38d7b753732589be1a51653568d8"
+  integrity sha512-X7iGNFMkfezrVGL9FuE5aDDkizf6bI/HeCtOdpaFVfW1NaWcj9L7p5J/WD73QgiH46uqy7k+PWzBGh7EDTnCNw==
 
 mime-db@1.44.0:
   version "1.44.0"
