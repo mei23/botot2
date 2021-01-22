@@ -15,7 +15,7 @@
 		"@types/node": "^14.0.27",
 		"@types/node-fetch": "^2.5.4",
 		"@types/ws": "^7.2.6",
-		"@types/xml2js": "^0.4.5",
+		"@types/xml2js": "^0.4.8",
 		"eslint": "^5.10.0",
 		"eslint-config-standard": "^12.0.0",
 		"eslint-plugin-import": "^2.19.1",
